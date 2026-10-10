@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://side-income-honest.howlane.com/sitemap.xml
